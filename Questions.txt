@@ -1,0 +1,15 @@
+01.Python was Developed By?
+02.Python's 1.0 version was released in?
+03.Which is not a keyword ( True, global, from, defaul)?
+04.Which is not a sequence ( range, complex, str, dict)?
+05.Which is not transfer control statement ( break, pass, continue, import)?
+06.What is the return type of split() method of str class?
+07.What is the output of this code ( print('seeta' or geeta'))?
+08.Tuple class has sort() Attribute (Yes/No)?
+09.Is list Growable?
+10.Which type of Error will occur ( x = 5 + '5' )?
+11.Is slicing operator works on tuple?
+12.Where object gets memory?
+13.Is python dynamically typed programming language?
+14.Python is statically typed programming language (True/False)?
+15.In which language python implements internally?
